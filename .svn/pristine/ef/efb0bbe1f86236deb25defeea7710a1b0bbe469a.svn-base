@@ -1,4 +1,4 @@
-# $Id: PKGBUILD 133791 2015-05-19 09:10:33Z bluewind $
+# $Id$
 # Maintainer: Jan de Groot <jgc@archlinux.org>
 
 _pkgbasename=libxrender
